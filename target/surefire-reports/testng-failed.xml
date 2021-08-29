@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [HRM Test Suite]">
+  <test thread-count="5" verbose="0" name="MyInfo Test(failed)">
+    <classes>
+      <class name="testcases.MyInfoTestcase">
+        <methods>
+          <include name="verifyMyInfoSideMenuItems"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="verifyMyInfoSideMenuCount"/>
+        </methods>
+      </class> <!-- testcases.MyInfoTestcase -->
+    </classes>
+  </test> <!-- MyInfo Test(failed) -->
+</suite> <!-- Failed suite [HRM Test Suite] -->

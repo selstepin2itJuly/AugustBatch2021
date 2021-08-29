@@ -1,0 +1,1947 @@
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Login to app
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Login to app
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] INFO  pages.DashboardPage  - resetPassworButton.getText()
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text not displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] INFO  pages.DashboardPage  - Reset button text:
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Login to app
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.DashboardPage  - Logout of application
+[TestNG-method=verifyMyInfoSideMenuItems-1] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.LoginPage  - Error text displayed
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] INFO  pages.LoginPage  - erros Text:Invalid credentials
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.DashboardPage  - ForgotPassword Page Constructor
+[main] INFO  pages.DashboardPage  - Initilizing Forgot Password Page
+[main] INFO  pages.LoginPage  - going to Forgot Password Page
+[main] DEBUG pages.DashboardPage  - Reset Password Button displayed
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch item count:6
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.DashboardPage  - Quick Launch items:[Assign Leave, Leave List, Timesheets, Apply Leave, My Leave, My Timesheet]
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu item count:11
+[main] INFO  pages.DashboardPage  - Logout of application
+[main] DEBUG testbase.TestBase  - Log4j appender configuration is successful !!
+[main] INFO  testbase.TestBase  - Reading configuration file
+[main] INFO  testbase.TestBase  - loading file to Properties
+[main] INFO  testbase.TestBase  - Reading browser file
+[main] INFO  testbase.TestBase  - starting chrome
+[main] INFO  testbase.TestBase  - opening test url
+[main] INFO  pages.LoginPage  - Login Page Constructor
+[main] INFO  pages.LoginPage  - Initializing Login Page
+[main] INFO  pages.DashboardPage  - Dashboard Page Constructor
+[main] INFO  pages.DashboardPage  - Initializing Page Elements
+[main] INFO  pages.LoginPage  - MyInfo Page Constructor
+[main] DEBUG pages.LoginPage  - Initilizing MyInfo Page
+[main] INFO  pages.LoginPage  - Login to app
+[main] INFO  pages.DashboardPage  - Verifying Logged user displayed
+[main] INFO  pages.LoginPage  - Go to My info Page
+[main] INFO  pages.LoginPage  - Myinfo Side Menu items:[Personal Details, Contact Details, Emergency Contacts, Dependents, Immigration, Job, Salary, Tax Exemptions, Report-to, Qualifications, Memberships]
+[main] INFO  pages.DashboardPage  - Logout of application

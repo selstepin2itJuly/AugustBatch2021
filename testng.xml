@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="HRM Test Suite">
+  <test name="Login Test">
+   <parameter name="user"  value="xyz"/>
+   <parameter name="pass"  value="abc"/>
+  <classes>
+      <class name="testcases.LoginTestcases"/>
+    </classes>
+  </test> 
+  <test name="Dashboard Test">
+     <classes>
+      <class name="testcases.DashboardTestcases"/>
+    </classes>
+    <test name="MyInfo Test">    
+    <classes>
+      <class name="testcases.MyInfoTestcase"/>
+    </classes>
+  </test> <!-- Test --> 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
